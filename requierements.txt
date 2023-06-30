@@ -1,0 +1,6 @@
+tensorflow-gpu
+matplotlib
+scikit-learn
+opencv-python
+numpy
+wandb
